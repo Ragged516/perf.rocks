@@ -674,3 +674,11 @@
     website: https://github.com/ai/size-limit
     category: 'JavaScript Optimization'
     tags: [javascript', 'optimization']
+
+    name: Chrome DevTools Timeline
+    description: 'The TimeLine provides a complete overview of where time is spent when loading and using your site'
+    website:
+    https://developers.google.com/web/tools/chrome-devtools/profile/evalueate-performance/timeline-tool?hl=
+    en
+    category: 'Analysis & Monitoring'
+    tags: ['analysis','measure','metrics']
